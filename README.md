@@ -1,6 +1,6 @@
-# DDos-Attack
+# DDos-yakefu
 
-What Is A DDos-Attack
+What Is A DDos-yakefu
 
 A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable
 
