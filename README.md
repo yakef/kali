@@ -8,7 +8,7 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 Dwonload&Install
 
-git clone https://github.com/Ha3MrX/DDos-yakefu
+git clone https://github.com/yakef/lm/DDos-yakefu
 
 cd DDos-yakefu
 
